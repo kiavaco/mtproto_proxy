@@ -1,14 +1,14 @@
 Erlang mtproto proxy
 ====================
 
-This part of code was extracted from [@socksy_bot](https://t.me/socksy_bot).
+This part of code was extracted from [@kiavair](https://t.me/kiavair).
 
-Support: https://t.me/erlang_mtproxy .
+Support: https://t.me/kiavair .
 
 Features
 --------
 
-* Promoted channels. See `tag` option.
+* کانال تبلیغاتی . بخش `tag` را مشاهده کنید .
 * "secure" randomized-packet-size protocol (34-symbol secrets starting with 'dd')
   to prevent detection by DPI
 * Fake-TLS protocol ('ee'/base64 secrets) - another protocol to prevent DPI detection
